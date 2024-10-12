@@ -79,4 +79,4 @@ _2013 - 2019_
 
 - Email: [std153510@ac.eap.gr](mailto:std153510@ac.eap.gr)
 - LinkedIn: [Marina Giannakakou](https://www.linkedin.com/in/marina-giannakakou-6700bbb4/)
-# marigian.github.io
+
