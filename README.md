@@ -46,15 +46,6 @@ _December 2017 - May 2018_
 
 ---
 
-## Certifications
-
-- PL-100 Microsoft Power App Maker
-- PL-900 Power Platform Fundamentals
-- AI-900 Azure Fundumentals
-- PL-200 Power Platform Functional Consultant
-
----
-
 ## Languages
 
 - **English**: Full Professional Proficiency
