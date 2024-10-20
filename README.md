@@ -74,3 +74,7 @@ _2013 - 2019_
 
 ## [Back to homepage](https://sdy60-2024.github.io/webring/)
 
+
+  This website is part of the <a href="https://github.com/sdy60-2024/webring/">SDY 60 - 2024</a>. &#124; <a href="https://github.com/sdy60-2024/webring/redirect?dir=prev&from=">Previous Site</a> &#124;
+    <a href="https://github.com/sdy60-2024/webring/redirect?from=">Next Site</a>
+
